@@ -1,0 +1,1 @@
+String MODE = "Ui_mode";
